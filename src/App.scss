@@ -29,6 +29,14 @@
         outline: none;
         padding: 0.5rem;
         border-radius: 23px;
+        background: #e5bfbf29;
+        border: none;
+        color: #fff;
+        width: 100%;
+
+        &::placeholder {
+          color: #bbb8b8;
+        }
       }
     }
 
